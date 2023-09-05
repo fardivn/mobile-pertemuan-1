@@ -1,6 +1,13 @@
-# flutter_application_1
+# mobile_pertemuan_1
 
-A new Flutter project.
+A new Flutter project.  
+  
+**Kelompok 5 SIB-3D**    
+  
+Nama:
+1. Farah Diva Nabila (06)
+2. Gilang Pambudi Wibawanto (09)
+3. Winda Umi Fatimatus Sa'diyah (19)
 
 ## Getting Started
 
